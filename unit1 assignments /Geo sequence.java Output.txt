@@ -1,0 +1,22 @@
+Last login: Tue Sep 23 14:00:27 on ttys003
+/var/folders/g8/7b2sklrx4gd768xs19nxs7dh0000gn/T/geany_run_script_OCCHD3.sh ; exit;
+rubywright@MacBookAir ~ % /var/folders/g8/7b2sklrx4gd768xs19nxs7dh0000gn/T/geany_run_script_OCCHD3.sh ; exit;
+3
+6
+12
+24
+48
+96
+192
+384
+768
+1536
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
+
+
+
